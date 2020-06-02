@@ -88,7 +88,7 @@ greenlet==0.4.15
 gunicorn==19.8.1
 h5py==2.8.0
 http==0.2
-httplib2==0.12.0
+httplib2==0.18.0
 humanfriendly==4.17
 humanize==0.5.1
 hyperlink==18.0.0
