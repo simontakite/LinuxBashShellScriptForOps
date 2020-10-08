@@ -142,7 +142,7 @@ pandas==0.22.0
 paramiko==2.4.2
 parse==1.8.2
 parsel==1.5.1
-passlib==1.7.1
+passlib==1.7.3
 pathlib==1.0.1
 pathlib2==2.3.2
 pathtools==0.1.2
